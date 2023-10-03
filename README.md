@@ -17,18 +17,18 @@ Esta é uma aplicação de calculadora simples construída em React. Ela permite
 
 1. Clone este repositório:
 
-`git clone https://github.com/SophiaSantos17/Calculadora-simples-react.git`
+   `git clone https://github.com/SophiaSantos17/Calculadora-simples-react.git`
 
 2. Instale as dependências:
 
-`cd nome-do-repositorio`
+   `cd nome-do-repositorio`
 
-`npm install`
+   `npm install`
 
 
 3. Inicie o aplicativo:
 
-`npm start`
+   `npm start`
 
 
 O aplicativo será aberto em seu navegador padrão. Você pode começar a usar a calculadora imediatamente.
